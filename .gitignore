@@ -1,0 +1,7 @@
+log/api_server/*
+log/daily_report/*
+log/mqtt_2_request/*
+log/ups_split_mqtt/*
+log/watcher/*
+
+config.ini

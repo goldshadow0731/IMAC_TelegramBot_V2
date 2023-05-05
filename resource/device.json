@@ -1,0 +1,89 @@
+{
+    "keyboard_list": [
+        "溫度",
+        "濕度",
+        "CO2",
+        "電流",
+        "DL303",
+        "ET7044",
+        "UPS",
+        "冷氣",
+        "環控設備",
+        "遠端控制",
+        "每日通報",
+        "服務列表",
+        "服務狀態",
+        "機房輪值",
+        "設定機房",
+        "機房資訊"
+    ],
+    "keyboard_emoji_list": [
+        "\ud83c\udf21",
+        "\ud83d\udca7",
+        "\u2601",
+        "\u26a1",
+        "",
+        "",
+        "\ud83d\udd0b",
+        "\u2744",
+        "\ud83c\udf9b",
+        "\ud83d\udd79",
+        "\ud83d\udcc6",
+        "\ud83d\udccb",
+        "\ud83d\udc68\u200d\ud83d\udcbb",
+        "\ud83d\udc6c",
+        "\u2699",
+        "\ud83d\udda5"
+    ],
+    "et7044_device_name_list": [
+        "進風風扇",
+        "加濕器",
+        "排風風扇",
+        "開關 3",
+        "開關 4",
+        "開關 5",
+        "開關 6",
+        "開關 7"
+    ],
+    "et7044_device_sw_list": [
+        "sw0",
+        "sw1",
+        "sw2",
+        "sw3",
+        "sw4",
+        "sw5",
+        "sw6",
+        "sw7"
+    ],
+    "element_list": [
+        "vCPU (Core)",
+        "RAM (GB)",
+        "Storage (TB)",
+        "General Switch",
+        "SDN Switch",
+        "x86-PC",
+        "Server Board",
+        "GPU Card",
+        "離開設定狀態"
+    ],
+    "element_json_list": [
+        "cpu",
+        "ram",
+        "storage",
+        "switch",
+        "sdn",
+        "pc",
+        "server",
+        "gpu"
+    ],
+    "element_unit_list": [
+        "Core",
+        "GB",
+        "TB",
+        "台",
+        "台",
+        "台",
+        "台",
+        "片"
+    ]
+}

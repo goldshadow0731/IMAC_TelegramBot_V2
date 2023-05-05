@@ -1,0 +1,36 @@
+{
+    "input": {
+        "volt": 221.0,
+        "freq": 59.9,
+        "line": 1
+    },
+    "temp": 32,
+    "battery": {
+        "lastChange": {
+            "day": 22,
+            "month": 3,
+            "year": 2017
+        },
+        "status": {
+            "health": "Good (\u826f\u597d)",
+            "volt": 272.0,
+            "status": "OK (\u826f\u597d)",
+            "remainPercent": 100,
+            "chargeMode": "Boost charging (\u5feb\u901f\u5145\u96fb)"
+        },
+        "nextChange": {
+            "day": 22,
+            "month": 3,
+            "year": 2020
+        }
+    },
+    "output": {
+        "amp": 12.136,
+        "percent": 31,
+        "mode": "Normal (\u5e02\u96fb\u8f38\u5165)",
+        "volt": 221.0,
+        "watt": 2.682,
+        "line": 1,
+        "freq": 59.9
+    }
+}
